@@ -17,7 +17,8 @@ French characters are typed with `AltGr` key (the right Alt key). `Shift + AltGr
 
 This layout is only intended for french language users. Feel free to modify the layout for any other language.
 
-Remark: `` ` ``, `'` et `"` can still be used as dead keys using the AltGr modifier.
+Remark: `` ` ``, `'` et `~` can still be used as dead keys using the AltGr modifier. `"` is no more a
+dead key. It is replaced with AltGr by `¨` used in french.
 
 # French
 
@@ -36,8 +37,9 @@ Les caractères français sont accessibles via AltGr (Alt de droite). Shift + Al
 
 Cette disposition est destinée aux francophones. N'hésitez pas à l'adapter à vos besoins.
 
-Note : `` ` ``, `'` et `"` existent toujours en version dead key via la touche AltGr afin de garder une forme de
-compatibilité avec la disposition US-Intl utilisée par certains.
+Note : `` ` ``, `'` et `~` existent toujours en version dead key via la touche AltGr afin
+de garder une forme de compatibilité avec la disposition US-Intl utilisée par certains.
+`"` n'est plus une dead key mais est remplacé via la touche AltGr par `¨` utilisé en français.
 
 ![Base Layout](https://github.com/sdiprizio/qwazerty/blob/master/screenshots/qwazerty.jpg "Base Layout")
 
