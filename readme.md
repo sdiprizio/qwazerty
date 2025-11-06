@@ -20,6 +20,8 @@ This layout is only intended for french language users. Feel free to modify the 
 Remark: `` ` ``, `'` et `~` can still be used as dead keys using the AltGr modifier. `"` is no more a
 dead key. It is replaced with AltGr by `¨` used in french.
 
+11/06/2025 : Added a UK variant (because of the lovely 8bitdo C64 UK keyboard). On the original layout added degree symbol on AltGr 0 key and non breakable space on AltGr Space.
+
 # French
 
 Cette disposition est faite pour les claviers QWERTY en y ajoutant les caractères accentués français.
@@ -41,6 +43,8 @@ Note : `` ` ``, `'` et `~` existent toujours en version dead key via la touche A
 de garder une forme de compatibilité avec la disposition US-Intl utilisée par certains.
 `"` n'est plus une dead key mais est remplacé via la touche AltGr par `¨` utilisé en français.
 
+06/11/2025 : Ajout d'une version UK (pour le clavier 8bitDo C64 UK). Sur la version originale ajout du symbole degré sur AltGr 0 et de l'espace insécable sur AltGr Espace
+
 ![Base Layout](https://github.com/sdiprizio/qwazerty/blob/master/screenshots/qwazerty.jpg "Base Layout")
 
 ![Shifted Layout](https://github.com/sdiprizio/qwazerty/blob/master/screenshots/qwazertyShft.jpg "Shifted Layout")
@@ -49,4 +53,10 @@ de garder une forme de compatibilité avec la disposition US-Intl utilisée par 
 
 ![Shifted AltGr Layout](https://github.com/sdiprizio/qwazerty/blob/master/screenshots/qwazertyShftAltGr.jpg "Shifted AltGr Layout")
 
+![UK Base Layout](https://github.com/sdiprizio/qwazerty/blob/master/screenshots/UKAZERTY.jpg "Base Layout")
 
+![UK Shifted Layout](https://github.com/sdiprizio/qwazerty/blob/master/screenshots/UKAZERTYShft.jpg "Shifted Layout")
+
+![UK AltGr Layout](https://github.com/sdiprizio/qwazerty/blob/master/screenshots/UKAZERTYAltGr.jpg "AltGr Layout")
+
+![UK Shifted AltGr Layout](https://github.com/sdiprizio/qwazerty/blob/master/screenshots/UKAZERTYShftAltGr.jpg "Shifted AltGr Layout")
